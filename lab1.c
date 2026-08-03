@@ -89,3 +89,5 @@ int main() {
     return 0;
 }
 
+// gcc -fopenmp Lab1.c -o Lab1
+// ./lab1.exe
